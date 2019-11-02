@@ -13,4 +13,4 @@ Reference
 https://magenta.tensorflow.org/groovae
 https://colab.research.google.com/github/tensorflow/magenta-demos/blob/master/colab-notebooks/GrooVAE.ipynb
 
---[Magenta-MusicVAE](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae)
+- [Magenta-MusicVAE](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae)
