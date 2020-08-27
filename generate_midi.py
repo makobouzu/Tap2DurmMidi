@@ -81,7 +81,7 @@ def main():
     loaded_sequence = mm.midi_file_to_note_sequence(base+"/input/input.mid")
     
     s = loaded_sequence
-    s = change_tempo(get_tapped_2bar(s, velocity=85, ride=False), s.tempos[0].qpm)
+    #s = change_tempo(get_tapped_2bar(s, velocity=85, ride=False), s.tempos[0].qpm)
 
     h = drumify(s, groovae_2bar_tap)
     h = change_tempo(h, s.tempos[0].qpm)
